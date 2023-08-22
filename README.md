@@ -1,1 +1,4 @@
 # formula
+
+
+code math rumus
